@@ -1,0 +1,2 @@
+# makefun-fortune-cookies
+Entry for make.fun u-gentle-badger-68-fortune-cookies-for-machines-29900c7e
